@@ -1,0 +1,16 @@
+{
+name: "eREST UI",
+keywords: "UI, REST, wifi, ethernet, http, web, server, json, spi",
+description: "A graphical user interface for Arduino based on the eREST API",
+repository: {
+type: "git",
+url: "https://github.com/xnakxx/eREST_UI.git"
+},
+frameworks: "arduino",
+platforms: [
+"atmelavr",
+"atmelsam",
+"espressif",
+"teensy"
+]
+}
